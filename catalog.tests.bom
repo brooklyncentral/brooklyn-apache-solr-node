@@ -7,7 +7,7 @@ brooklyn.catalog:
   iconUrl: classpath:///solr-logo.png
   item:
     services:
-    - type: com.canopy.compose.solr
+    - type: brooklyn-apache-solr-node
       id: parent-app
 
     - type: test-case
