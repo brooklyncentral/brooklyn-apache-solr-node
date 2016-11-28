@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: Apache Solr Node
   description: Solr is the popular, blazing fast open source enterprise search platform from the Apache Lucene project.
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/en/3/3e/Solr.png
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
